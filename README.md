@@ -12,7 +12,10 @@ Requirements Quality Framework, User Stories, Ambiguity, Technological Acceptanc
 •	The AmbiTRUS framework is developed based on the diverse manifestations of ambiguity in user stories 
 
 •	The quality criteria of the AmbiTRUS framework are reviewed using the established user story quality frameworks
+
 •	The controlled experiment did not find significant difference in precision and recall between the participants who had access to the AmbiTRUS framework and those who did not
+
 •	The experiment found a significant difference in the perceived usefulness of the AmbiTRUS framework, with participants who had access to the framework rating it higher in usefulness compared to those who did not
+
 •	The study highlights the necessity for additional improvements in quality criteria and addaptations to a tool-supported method to enhance both the effectiveness and user-friendliness of the framework 
 
