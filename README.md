@@ -19,5 +19,5 @@ Requirements Quality Framework, User Stories, Ambiguity, Technological Acceptanc
 
 •	The study highlights the necessity for additional improvements in quality criteria and addaptations to a tool-supported method to enhance both the effectiveness and user-friendliness of the framework 
 
-# Note:
-For the responses in Appendix E and F, you need to download the file to view the content.Both the Excel file and the PDF have been uploaded.
+# Notes:
+For the responses in Appendix E and F, you need to download the file to view the content. Both the Excel file and the PDF have been uploaded.
