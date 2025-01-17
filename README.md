@@ -19,5 +19,9 @@ Requirements Quality Framework, User Stories, Ambiguity, Technological Acceptanc
 
 •	The study highlights the necessity for additional improvements in quality criteria and addaptations to a tool-supported method to enhance both the effectiveness and user-friendliness of the framework 
 
-# Notes:
-For the responses in Appendix E and F, you need to download the file to view the content. Both the Excel file and the PDF have been uploaded.
+# How to cite the paper:
+Amna, Anis Rahmawati and Wautelet, Yves and Poelmans, Stephan and Heng, Samedi and Poels, Geert, The Ambitrus Framework for Identifying Potential Ambiguity in User Stories. Available at SSRN: https://ssrn.com/abstract=4890812 or http://dx.doi.org/10.2139/ssrn.4890812
+
+# AmbiTRUS_4_Ambiguity
+[![DOI](https://zenodo.org/badge/807462370.svg)](https://doi.org/10.5281/zenodo.14679767)
+
